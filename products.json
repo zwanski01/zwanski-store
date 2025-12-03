@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "title": "Remote Tech Support – 1 Hour",
+    "price": 29.99,
+    "description": "One hour remote session for troubleshooting and security review.",
+    "image": ""
+  },
+  {
+    "id": "p2",
+    "title": "Website Starter Kit",
+    "price": 199.0,
+    "description": "Responsive 5-page website built with Tailwind and React.",
+    "image": ""
+  },
+  {
+    "id": "p3",
+    "title": "SEO Audit Report",
+    "price": 79.0,
+    "description": "Comprehensive SEO analysis with improvement plan.",
+    "image": ""
+  },
+  {
+    "id": "p4",
+    "title": "Cybersecurity Mini Audit",
+    "price": 149.0,
+    "description": "Basic security review and recommendations.",
+    "image": ""
+  },
+  {
+    "id": "p5",
+    "title": "Chrome Optimization Tool (License)",
+    "price": 9.99,
+    "description": "License key for Zwansave memory optimizer.",
+    "image": ""
+  },
+  {
+    "id": "p6",
+    "title": "Training Session – Python Basics",
+    "price": 49.0,
+    "description": "2-hour group training session for Python beginners.",
+    "image": ""
+  }
+]

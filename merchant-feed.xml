@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Zwanski Tech Store</title>
+    <link>https://zwanski.org/</link>
+    <description>Products from Zwanski Tech</description>
+    <!-- Example item; replicate for each product -->
+    <item>
+      <g:id>p1</g:id>
+      <title>Remote Tech Support – 1 Hour</title>
+      <description>One hour remote session for troubleshooting and security review.</description>
+      <g:link>https://zwanski.org/shop</g:link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>29.99 USD</g:price>
+      <g:brand>Zwanski Tech</g:brand>
+    </item>
+  </channel>
+</rss>
