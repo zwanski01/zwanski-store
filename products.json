@@ -6,7 +6,7 @@
     "category": "web",
     "description": "A fast, responsive 5-page brochure website built with modern React and Tailwind. Includes basic SEO, mobile optimization, and deployment guidance.",
     "features": ["5 pages", "Responsive layout", "Basic SEO", "Contact form"],
-    "image": "/images/web-basic.svg"
+    "image": "images/web-basic.svg"
   },
   {
     "id": "web-pro",
@@ -15,7 +15,7 @@
     "category": "web",
     "description": "Professional website with product pages, shopping cart setup, performance optimizations, and analytics. Ideal for small businesses looking to sell online.",
     "features": ["Product pages", "Cart integration", "Performance tuning", "Analytics setup"],
-    "image": "/images/web-pro.svg"
+    "image": "images/web-pro.svg"
   },
   {
     "id": "seo-basic",
@@ -24,7 +24,7 @@
     "category": "seo",
     "description": "Technical SEO audit covering core vitals, indexability, and on-page recommendations with a 10-point action plan.",
     "features": ["Core Web Vitals report", "Indexing issues", "Meta & schema advice"],
-    "image": "/images/seo-basic.svg"
+    "image": "images/seo-basic.svg"
   },
   {
     "id": "seo-pro",
@@ -33,7 +33,7 @@
     "category": "seo",
     "description": "Monthly SEO package including keyword research, content guidance, link auditing, and monthly reporting to grow organic traffic.",
     "features": ["Keyword research", "Content plan", "Monthly reporting"],
-    "image": "/images/seo-pro.svg"
+    "image": "images/seo-pro.svg"
   },
   {
     "id": "sec-audit",
@@ -42,7 +42,7 @@
     "category": "security",
     "description": "We perform an external security scan, configuration review, and provide prioritized remediation steps to harden your stack.",
     "features": ["External scan", "Config review", "Prioritized fixes"],
-    "image": "/images/sec-audit.svg"
+    "image": "images/sec-audit.svg"
   },
   {
     "id": "it-support-monthly",
@@ -51,7 +51,7 @@
     "category": "support",
     "description": "Managed remote IT support for small teams including 10 support hours per month, patching guidance, and priority response.",
     "features": ["10 support hours", "Priority response", "Patching advice"],
-    "image": "/images/it-support-monthly.svg"
+    "image": "images/it-support-monthly.svg"
   },
   {
     "id": "opt-tool-license",
@@ -60,7 +60,7 @@
     "category": "tools",
     "description": "License for our performance optimization tool — includes one year of updates and priority support.",
     "features": ["1-year updates", "Priority support", "Performance presets"],
-    "image": "/images/opt-tool-license.svg"
+    "image": "images/opt-tool-license.svg"
   },
   {
     "id": "training-python",
@@ -69,6 +69,6 @@
     "category": "training",
     "description": "Two-hour live workshop introducing Python fundamentals for non-developers and beginners.",
     "features": ["2-hour workshop", "Hands-on examples", "Learning resources"],
-    "image": "/images/training-python.svg"
+    "image": "images/training-python.svg"
   }
 ]

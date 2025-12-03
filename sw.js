@@ -1,9 +1,9 @@
 const CACHE = 'zwanski-static-v1';
 const toCache = [
-  '/',
-  '/index.html',
-  '/placeholder.png',
-  '/styles.css'
+  './',
+  './index.html',
+  './placeholder.png',
+  './styles.css'
 ]
 
 self.addEventListener('install', e => {
