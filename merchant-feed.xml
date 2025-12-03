@@ -2,18 +2,95 @@
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
     <title>Zwanski Tech Store</title>
-    <link>https://zwanski.org/</link>
+    <link>https://your-domain.com/</link>
     <description>Products from Zwanski Tech</description>
-    <!-- Example item; replicate for each product -->
-    <item>
-      <g:id>p1</g:id>
-      <title>Remote Tech Support – 1 Hour</title>
-      <description>One hour remote session for troubleshooting and security review.</description>
-      <g:link>https://zwanski.org/shop</g:link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>29.99 USD</g:price>
-      <g:brand>Zwanski Tech</g:brand>
-    </item>
+  <item>
+    <g:id>web-basic</g:id>
+    <title>Website Starter — Basic</title>
+    <description>A fast, responsive 5-page brochure website built with modern React and Tailwind. Includes basic SEO, mobile optimization, and deployment guidance.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/web-basic</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>399.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/web-basic.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>web-pro</g:id>
+    <title>Website Pro — E-commerce Ready</title>
+    <description>Professional website with product pages, shopping cart setup, performance optimizations, and analytics. Ideal for small businesses looking to sell online.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/web-pro</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>1299.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/web-pro.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>seo-basic</g:id>
+    <title>SEO Audit — Essentials</title>
+    <description>Technical SEO audit covering core vitals, indexability, and on-page recommendations with a 10-point action plan.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/seo-basic</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>149.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/seo.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>seo-pro</g:id>
+    <title>SEO Growth Package</title>
+    <description>Monthly SEO package including keyword research, content guidance, link auditing, and monthly reporting to grow organic traffic.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/seo-pro</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>799.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/seo-pro.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>sec-audit</g:id>
+    <title>Cybersecurity Audit — Essentials</title>
+    <description>We perform an external security scan, configuration review, and provide prioritized remediation steps to harden your stack.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/sec-audit</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>499.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/security.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>it-support-monthly</g:id>
+    <title>IT Support — Monthly</title>
+    <description>Managed remote IT support for small teams including 10 support hours per month, patching guidance, and priority response.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/it-support-monthly</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>199.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/support.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>opt-tool-license</g:id>
+    <title>Software Optimization License</title>
+    <description>License for our performance optimization tool — includes one year of updates and priority support.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/opt-tool-license</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>29.99 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/tool.svg</g:image_link>
+  </item>
+  <item>
+    <g:id>training-python</g:id>
+    <title>Training: Python Basics (Group)</title>
+    <description>Two-hour live workshop introducing Python fundamentals for non-developers and beginners.</description>
+    <g:link>https://zwanski01.github.io/zwanski-store/product/training-python</g:link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>99.00 USD</g:price>
+    <g:brand>Zwanski Tech</g:brand>
+    <g:image_link>https://zwanski01.github.io/zwanski-store/images/training.svg</g:image_link>
+  </item>
   </channel>
 </rss>

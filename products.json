@@ -1,44 +1,74 @@
 [
   {
-    "id": "p1",
-    "title": "Remote Tech Support – 1 Hour",
-    "price": 29.99,
-    "description": "One hour remote session for troubleshooting and security review.",
-    "image": ""
+    "id": "web-basic",
+    "title": "Website Starter — Basic",
+    "price": 399.0,
+    "category": "web",
+    "description": "A fast, responsive 5-page brochure website built with modern React and Tailwind. Includes basic SEO, mobile optimization, and deployment guidance.",
+    "features": ["5 pages", "Responsive layout", "Basic SEO", "Contact form"],
+    "image": "/images/web-basic.svg"
   },
   {
-    "id": "p2",
-    "title": "Website Starter Kit",
-    "price": 199.0,
-    "description": "Responsive 5-page website built with Tailwind and React.",
-    "image": ""
+    "id": "web-pro",
+    "title": "Website Pro — E-commerce Ready",
+    "price": 1299.0,
+    "category": "web",
+    "description": "Professional website with product pages, shopping cart setup, performance optimizations, and analytics. Ideal for small businesses looking to sell online.",
+    "features": ["Product pages", "Cart integration", "Performance tuning", "Analytics setup"],
+    "image": "/images/web-pro.svg"
   },
   {
-    "id": "p3",
-    "title": "SEO Audit Report",
-    "price": 79.0,
-    "description": "Comprehensive SEO analysis with improvement plan.",
-    "image": ""
-  },
-  {
-    "id": "p4",
-    "title": "Cybersecurity Mini Audit",
+    "id": "seo-basic",
+    "title": "SEO Audit — Essentials",
     "price": 149.0,
-    "description": "Basic security review and recommendations.",
-    "image": ""
+    "category": "seo",
+    "description": "Technical SEO audit covering core vitals, indexability, and on-page recommendations with a 10-point action plan.",
+    "features": ["Core Web Vitals report", "Indexing issues", "Meta & schema advice"],
+    "image": "/images/seo-basic.svg"
   },
   {
-    "id": "p5",
-    "title": "Chrome Optimization Tool (License)",
-    "price": 9.99,
-    "description": "License key for Zwansave memory optimizer.",
-    "image": ""
+    "id": "seo-pro",
+    "title": "SEO Growth Package",
+    "price": 799.0,
+    "category": "seo",
+    "description": "Monthly SEO package including keyword research, content guidance, link auditing, and monthly reporting to grow organic traffic.",
+    "features": ["Keyword research", "Content plan", "Monthly reporting"],
+    "image": "/images/seo-pro.svg"
   },
   {
-    "id": "p6",
-    "title": "Training Session – Python Basics",
-    "price": 49.0,
-    "description": "2-hour group training session for Python beginners.",
-    "image": ""
+    "id": "sec-audit",
+    "title": "Cybersecurity Audit — Essentials",
+    "price": 499.0,
+    "category": "security",
+    "description": "We perform an external security scan, configuration review, and provide prioritized remediation steps to harden your stack.",
+    "features": ["External scan", "Config review", "Prioritized fixes"],
+    "image": "/images/sec-audit.svg"
+  },
+  {
+    "id": "it-support-monthly",
+    "title": "IT Support — Monthly",
+    "price": 199.0,
+    "category": "support",
+    "description": "Managed remote IT support for small teams including 10 support hours per month, patching guidance, and priority response.",
+    "features": ["10 support hours", "Priority response", "Patching advice"],
+    "image": "/images/it-support-monthly.svg"
+  },
+  {
+    "id": "opt-tool-license",
+    "title": "Software Optimization License",
+    "price": 29.99,
+    "category": "tools",
+    "description": "License for our performance optimization tool — includes one year of updates and priority support.",
+    "features": ["1-year updates", "Priority support", "Performance presets"],
+    "image": "/images/opt-tool-license.svg"
+  },
+  {
+    "id": "training-python",
+    "title": "Training: Python Basics (Group)",
+    "price": 99.0,
+    "category": "training",
+    "description": "Two-hour live workshop introducing Python fundamentals for non-developers and beginners.",
+    "features": ["2-hour workshop", "Hands-on examples", "Learning resources"],
+    "image": "/images/training-python.svg"
   }
 ]
