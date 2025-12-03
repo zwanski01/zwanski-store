@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/about</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/shop</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/services</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/contact</loc>
+    <priority>0.60</priority>
+  </url>
+  <!-- Product pages (sample subset) -->
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/product/web-basic</loc>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/product/web-pro</loc>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/product/imei-unlock</loc>
+  </url>
+  <url>
+    <loc>https://zwanski01.github.io/zwanski-store/product/antivirus-cloud</loc>
+  </url>
+</urlset>

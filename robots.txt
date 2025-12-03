@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://zwanski01.github.io/zwanski-store/sitemap.xml
+
+# Crawl-delay can be set by search engines if needed
