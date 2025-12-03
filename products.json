@@ -5,7 +5,7 @@
     "price": 399.0,
     "category": "web",
     "description": "A fast, responsive 5-page brochure website built with modern React and Tailwind. Includes basic SEO, mobile optimization, and deployment guidance.",
-    "features": ["5 pages", "Responsive layout", "Basic SEO", "Contact form"],
+    "image": "images/training-python.svg"
     "image": "images/web-basic.svg"
   },
   {
