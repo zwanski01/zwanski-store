@@ -6,6 +6,7 @@ import ProductPage from './pages/Product'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import Academy from './pages/Academy'
+import Blog from './pages/Blog'
 import Cart from './pages/Cart'
 import Checkout from './pages/Checkout'
 import Privacy from './pages/Privacy'
@@ -33,6 +34,7 @@ export default function App(){
             <Route path='/about' element={<About/>} />
             <Route path='/contact' element={<Contact/>} />
             <Route path='/academy' element={<Academy/>} />
+            <Route path='/blog' element={<Blog/>} />
             <Route path='/cart' element={<Cart/>} />
             <Route path='/checkout' element={<Checkout/>} />
             <Route path='/privacy' element={<Privacy/>} />

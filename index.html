@@ -9,33 +9,13 @@
     <meta property="og:description" content="Professional web development, SEO, cybersecurity and IT support." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://zwanski01.github.io/zwanski-store/" />
-    <meta property="og:image" content="%BASE_URL%placeholder.png" />
-    <link rel="manifest" href="%BASE_URL%manifest.webmanifest" />
+    <meta property="og:image" content="./placeholder.png" />
+    <link rel="manifest" href="./manifest.webmanifest" />
     <meta name="theme-color" content="#0F172A" />
   </head>
     <body>
-      <nav aria-label="Main navigation">
-        <ul style="display:flex;gap:1rem;list-style:none;background:#23272f;padding:1rem;">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="contact.html">Contact</a></li>
-          <li><a href="privacy-policy.html">Privacy Policy</a></li>
-          <li><a href="terms.html">Terms</a></li>
-          <li><a href="cookie-policy.html">Cookies</a></li>
-          <li><a href="refund-policy.html">Refunds</a></li>
-        </ul>
-      </nav>
       <div id="root"></div>
-      <footer style="background:#23272f;color:#fff;text-align:center;padding:1rem;">
-        <p>Copyright © 2025 Zwanski Tech by Mohamed Ibrahim Zwanski</p>
-        <p>
-          <a href="privacy-policy.html">Privacy</a> |
-          <a href="cookie-policy.html">Cookies</a> |
-          <a href="contact.html">Contact: mohaaibb4@proton.me</a>
-        </p>
-      </footer>
+      <script type="module" src="/src/main.tsx"></script>
       <script src="js/cookieconsent.js"></script>
       <script>
         // GDPR banner for EU users
@@ -48,7 +28,7 @@
               document.body.insertAdjacentHTML('afterbegin', `
                 <div style="background:#222;color:#fff;border-radius:8px;padding:1rem;position:fixed;top:1rem;left:1rem;z-index:1000;box-shadow:0 2px 8px #0006;">
                   <span>
-                    As an EU visitor, you have enhanced privacy rights. 
+                    As an EU visitor, you have enhanced privacy rights.
                     <a href='privacy-policy.html' style='color:#38bdf8;'>Learn more</a>.
                   </span>
                 </div>
@@ -56,11 +36,10 @@
             }
           });
       </script>
-      <script type="module" src="%BASE_URL%src/main.tsx"></script>
       <script>
         // Register a very small service worker for offline caching (if supported)
         if('serviceWorker' in navigator) {
-          navigator.serviceWorker.register('%BASE_URL%sw.js').catch(()=>{})
+          navigator.serviceWorker.register('./sw.js').catch(()=>{})
         }
       </script>
     </body>
